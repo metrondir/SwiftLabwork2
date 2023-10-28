@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		848C96D02AEC574000EB14FB /* photo_2023-10-27_22-29-05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 848C96CE2AEC574000EB14FB /* photo_2023-10-27_22-29-05.jpg */; };
 		84D46B2C2AEC5006000311E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D46B2B2AEC5006000311E2 /* AppDelegate.swift */; };
 		84D46B2E2AEC5006000311E2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D46B2D2AEC5006000311E2 /* SceneDelegate.swift */; };
 		84D46B302AEC5006000311E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D46B2F2AEC5006000311E2 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		848C96CF2AEC574000EB14FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Base; path = "Base.lproj/photo_2023-10-27_22-29-05.jpg"; sourceTree = "<group>"; };
 		84D46B282AEC5006000311E2 /* lab2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84D46B2B2AEC5006000311E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84D46B2D2AEC5006000311E2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		84D46B2A2AEC5006000311E2 /* lab2 */ = {
 			isa = PBXGroup;
 			children = (
+				848C96CE2AEC574000EB14FB /* photo_2023-10-27_22-29-05.jpg */,
 				84D46B2B2AEC5006000311E2 /* AppDelegate.swift */,
 				84D46B2D2AEC5006000311E2 /* SceneDelegate.swift */,
 				84D46B2F2AEC5006000311E2 /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84D46B382AEC500A000311E2 /* LaunchScreen.storyboard in Resources */,
+				848C96D02AEC574000EB14FB /* photo_2023-10-27_22-29-05.jpg in Resources */,
 				84D46B352AEC500A000311E2 /* Assets.xcassets in Resources */,
 				84D46B332AEC5006000311E2 /* Main.storyboard in Resources */,
 			);
@@ -297,6 +301,14 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		848C96CE2AEC574000EB14FB /* photo_2023-10-27_22-29-05.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				848C96CF2AEC574000EB14FB /* Base */,
+			);
+			name = "photo_2023-10-27_22-29-05.jpg";
+			sourceTree = "<group>";
+		};
 		84D46B312AEC5006000311E2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
